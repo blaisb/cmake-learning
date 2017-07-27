@@ -1,0 +1,9 @@
+#If you not want to see the directories when using make
+make --no-print-directory
+
+#Compile in Debug mode
+cmake ../src/ -DCMAKE_BUILD_TYPE=Debug
+
+#Compile in Release mode
+cmake ../src/ -DCMAKE_BUILD_TYPE=Release
+
