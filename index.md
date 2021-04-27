@@ -48,3 +48,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  $$a^2 + b^2 = c^2$$
  
  $a^2 + b^2 = c^2$
+
+$$\LaTeX code$$   (for display)
+\\[\LaTeX code\\] (also for display)
+\\(\LaTeX code\\) (for inline)
