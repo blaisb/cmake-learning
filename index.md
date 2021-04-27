@@ -44,3 +44,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  {% raw %}
   $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
  {% endraw %}
+ 
+ $$a^2 + b^2 = c^2$$
+ 
+ $a^2 + b^2 = c^2$
+
+$$\LaTeX code$$   (for display)
+\\[\LaTeX code\\] (also for display)
+\\(\LaTeX code\\) (for inline)
+
+### Outside rendering
+
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
+
