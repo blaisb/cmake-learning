@@ -1,5 +1,9 @@
 theme: jekyll-theme-slate
 
+title: Welcome to a dummy test webpage
+
+description: Just trying to make a github page that is decent
+
 markdown: kramdown
 kramdown:
     math_engine: mathjax
